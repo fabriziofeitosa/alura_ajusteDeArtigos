@@ -1,0 +1,33 @@
+Array
+(
+    [0] => programa-para-edicao-de-video-10-opcoes-para-quem-esta-comecando
+    [1] => trabalhar-com-photoshop-7-hacks-que-voce-precisa-conhecer
+    [2] => boas-praticas-de-desenvolvimento-php
+    [3] => acessibilidade-na-web
+    [4] => conheca-10-maneiras-de-aumentar-a-sua-inspiracao-para-design
+    [5] => fazendo-recortes-na-imagem-com-crop-tool-no-photoshop
+    [6] => como-comecar-e-persistir-na-carreira-de-3d-e-animacao-do-mergulho-a-aterrisagem-passando-por-algumas-acrobacias
+    [7] => como-montar-um-portfolio-de-design
+    [8] => entenda-o-poder-das-imagens-no-marketing
+    [9] => conheca-diferentes-sites-de-mockups-para-simplificar-o-seu-trabalho
+    [10] => 5-truques-de-after-effects-para-iniciantes
+    [11] => quais-sao-as-areas-de-atuacao-para-um-profissional-de-edicao-de-videos
+    [12] => 7-hacks-e-dicas-do-illustrator-que-voce-precisa-conhecer
+    [13] => por-tras-do-novo-visual-do-alura
+    [14] => descubra-qual-a-importancia-da-tipografia-para-o-design
+    [15] => cores-com-harmonia
+    [16] => profissoes-para-designer-conheca-9-oportunidades-em-crescimento
+    [17] => 4-designers-famosos-que-tiveram-sucesso-no-mercado-de-tecnologia
+    [18] => como-next-js-ajuda-no-seo-spas
+    [19] => blitzscaling-o-que-e
+    [20] => aplicacoes-nlp-mercado-de-trabalho
+    [21] => mediacao-de-conflitos-para-lideres
+    [22] => entenda-os-principais-modelos-de-gestao
+    [23] => power-bi-contexto-de-linha-e-filtro
+    [24] => negociacao-uma-competencia-fundamental-para-a-lideranca
+    [25] => aprenda-desenvolver-plano-de-desenvolvimento-individual
+    [26] => o-que-e-html-suas-tags-parte-2-elementos-inline
+    [27] => frequencia-absoluta-e-relativa
+    [28] => sublime-text-um-dos-melhores-editores-de-codigo
+    [29] => o-que-e-html-suas-tags-parte-1-estrutura-basica
+)
